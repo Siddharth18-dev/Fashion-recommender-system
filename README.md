@@ -17,3 +17,9 @@ Technology Stack: -
   2) tensorflow 2.16.1 - Python Library
   3) ResNet50 - pre-trained model on imageNET.
   4) python - 3.11.1
+
+Get Started Steps: -
+ Step 1) Download all zip file and extract it into your local system and download pre-requisite modules, such as tensorflow, streamlit, etc... in terminal
+           pip install python streamlit
+ Step 2) Type in terminal window 'streamlit run server.py'
+ Step 3) Here you go, enjoy 
